@@ -35,7 +35,7 @@ The main classification logic that routes logs to appropriate classifiers:
 - Returns "Unclassified" if confidence is low (<0.5)  
 
 #### LLM Classifier (`processor_llm.py`)
-- Uses Groq API with LLaMA 70B model  
+- Uses Groq API with DeepSeek R1 model  
 - Strictly categorizes into 3 classes for LegacyCRM logs  
 - Uses XML-style tags for structured output  
 
