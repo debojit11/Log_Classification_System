@@ -10,7 +10,7 @@ This project is a comprehensive log classification system that uses multiple tec
 - **Multi-technique classification**: Uses different classification methods based on the log source  
 - **Regex-based classification**: Fast pattern matching for well-structured logs  
 - **BERT-based classification**: Machine learning approach for more complex logs  
-- **LLM-based classification**: Uses Groq's API with LLaMA 70B for ambiguous or complex logs from LegacyCRM  
+- **LLM-based classification**: Uses Groq's API with DeepSeek R1 for ambiguous or complex logs from LegacyCRM  
 - **CSV processing**: Can process entire CSV files with log data  
 - **REST API**: FastAPI endpoint for easy integration  
 
